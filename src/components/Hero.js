@@ -158,13 +158,13 @@ const Hero = () => {
                             href="#portfolio"
                             className="px-6 py-3 text-white bg-black rounded-full text-sm md:text-base hover:shadow-xl hover:bg-gray-800 transition duration-300"
                         >
-                            View Portfolio
+                            Download CV
                         </a>
                         <a
                             href="#contact"
                             className="px-6 py-3 border border-black rounded-full text-sm md:text-base text-black hover:bg-black hover:text-white transition duration-300"
                         >
-                            Contact Me
+                            Hire Me
                         </a>
                     </motion.div>
                 </motion.div>
